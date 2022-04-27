@@ -11,6 +11,7 @@
 ## Docs
 
 ## Contributing
+[CONTRIBUTING](CONTRIBUTING)
 
 ## License
 
