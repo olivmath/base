@@ -6,11 +6,11 @@
 1. Create and describe your **proposal/bug** in an _issue_.
 2. Create a new **branch** and **pull request** with the pattern `1-my-feature`.
 
+<img width="1172" alt="Gitlab Flow" src="https://user-images.githubusercontent.com/50037567/165442258-072abfe6-2295-40d6-a573-92f851878c4c.png">
+
 ---
 
-## Convention of Commits and Semantic Version
-
-### **Commit Structure**
+## CONVENTIONAL COMMIT
 
 ```
 type(escope): short description
@@ -18,10 +18,8 @@ type(escope): short description
 What does the modification do?
 why was it modified?
 
-#issue
 ```
-
-### **Types**
+type
 
 - **deprecated!** compatibility break
 - **add** adds a new feature
@@ -29,15 +27,19 @@ why was it modified?
 - **remove** remove a peace of code
 - **update** does not add a feature or fix a bug
 
-### **Semantic Version**
+---
+
+## SEMANTIC VERSION
+
+Major.Minor.Patch (e.g. 1.3.4)
 
 - **deprecated!** -> _Major_
 - **add** -> _Minor_
-- **update|fix** -> _Patch_
+- **update | fix** -> _Patch_
 
 ---
 
-## References
+## READTHEDOCS
 
 
 - [Trunk Base Development](https://trunkbaseddevelopment.com)
