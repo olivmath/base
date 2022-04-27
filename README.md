@@ -4,15 +4,15 @@
 
 - Description
 
-## Credits
+## CREDITS
 
-## How to install
+## HOW TO INSTALL
 
-## Docs
+## READTHEDOCS
 
-## Contributing
+## CONTRIBUTING
 [CONTRIBUTING](CONTRIBUTING)
 
-## License
+## LINCENSE
 
 [MIT](LINCENSE)
