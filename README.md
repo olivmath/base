@@ -1,4 +1,4 @@
-# README
+# Prject
 
 [Badges]()
 
@@ -6,11 +6,12 @@
 
 ## CREDITS
 
+## HOW IT WORKS
+
 ## HOW TO INSTALL
 
-## READTHEDOCS
-
 ## CONTRIBUTING
+
 [CONTRIBUTING](CONTRIBUTING)
 
 ## LICENSE
